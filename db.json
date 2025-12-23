@@ -1,0 +1,204 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "ISBN": "978-1",
+      "title": "Learn TypeScript",
+      "img": "https://covers.openlibrary.org/b/id/112920-L.jpg",
+      "price": 29.99,
+      "description": "A complete guide to TypeScript.",
+      "author": "John Doe",
+      "isExist": true
+    },
+    {
+      "id": 2,
+      "ISBN": "978-2",
+      "title": "React for Beginners",
+      "img": "https://covers.openlibrary.org/b/id/151220-L.jpg",
+      "price": 24.99,
+      "description": "Step by step tutorial on React.",
+      "author": "Jane Smith",
+      "isExist": true
+    },
+    {
+      "id": 3,
+      "ISBN": "978-3",
+      "title": "Advanced JavaScript",
+      "img": "https://covers.openlibrary.org/b/id/12920-L.jpg",
+      "price": 34.99,
+      "description": "Deep dive into modern JavaScript.",
+      "author": "Emily Johnson",
+      "isExist": false
+    },
+    {
+      "id": 4,
+      "ISBN": "978-4",
+      "title": "CSS Mastery",
+      "img": "https://covers.openlibrary.org/b/id/129320-L.jpg",
+      "price": 19.99,
+      "description": "Master CSS for modern web development.",
+      "author": "Michael Brown",
+      "isExist": true
+    },
+    {
+      "id": 5,
+      "ISBN": "978-5",
+      "title": "HTML & CSS Design",
+      "img": "https://covers.openlibrary.org/b/id/1587720-L.jpg",
+      "price": 22.99,
+      "description": "Design beautiful websites with HTML & CSS.",
+      "author": "Laura Wilson",
+      "isExist": true
+    },
+    {
+      "id": 6,
+      "ISBN": "978-6",
+      "title": "Node.js in Action",
+      "img": "https://covers.openlibrary.org/b/id/15120-L.jpg",
+      "price": 31.99,
+      "description": "Build backend applications with Node.js.",
+      "author": "David Lee",
+      "isExist": false
+    },
+    {
+      "id": 7,
+      "ISBN": "978-7",
+      "title": "Fullstack Development",
+      "img": "https://covers.openlibrary.org/b/id/1512920-L.jpg",
+      "price": 39.99,
+      "description": "Learn fullstack web development from scratch.",
+      "author": "Sophia Martinez",
+      "isExist": false
+    },
+    {
+      "id": 8,
+      "ISBN": "978-8",
+      "title": "Programming Patterns",
+      "img": "https://covers.openlibrary.org/b/id/1512920-L.jpg",
+      "price": 27.99,
+      "description": "Essential programming patterns and best practices.",
+      "author": "Chris Anderson",
+      "isExist": false
+    },
+    {
+      "id": 9,
+      "ISBN": "978-9",
+      "title": "JavaScript Basics",
+      "img": "https://covers.openlibrary.org/b/id/1512920-L.jpg",
+      "price": 18.99,
+      "description": "Introduction to JavaScript for beginners.",
+      "author": "Anna White",
+      "isExist": true
+    },
+    {
+      "id": 10,
+      "ISBN": "978-10",
+      "title": "Web Accessibility",
+      "img": "https://covers.openlibrary.org/b/id/15109-L.jpg",
+      "price": 21.99,
+      "description": "Build accessible and inclusive websites.",
+      "author": "Robert Green",
+      "isExist": true
+    },
+    {
+      "id": 11,
+      "ISBN": "978-11",
+      "title": "TypeScript Patterns",
+      "img": "https://covers.openlibrary.org/b/id/11220-L.jpg",
+      "price": 32.99,
+      "description": "Best practices and patterns in TypeScript.",
+      "author": "Daniel King",
+      "isExist": false
+    },
+    {
+      "id": 12,
+      "ISBN": "978-12",
+      "title": "Modern React",
+      "img": "https://covers.openlibrary.org/b/id/1512920-L.jpg",
+      "price": 28.99,
+      "description": "Hooks, context, and modern React features.",
+      "author": "Sarah Young",
+      "isExist": true
+    },
+    {
+      "id": 13,
+      "ISBN": "978-13",
+      "title": "Next.js Guide",
+      "img": "https://covers.openlibrary.org/b/id/120-L.jpg",
+      "price": 33.99,
+      "description": "Server-side rendering with Next.js.",
+      "author": "Kevin Scott",
+      "isExist": false
+    },
+    {
+      "id": 14,
+      "ISBN": "978-14",
+      "title": "REST API Design",
+      "img": "https://covers.openlibrary.org/b/id/15129224-L.jpg",
+      "price": 26.99,
+      "description": "Designing scalable REST APIs.",
+      "author": "Olivia Harris",
+      "isExist": true
+    },
+    {
+      "id": 15,
+      "ISBN": "978-15",
+      "title": "GraphQL Essentials",
+      "img": "https://covers.openlibrary.org/b/id/1564924-L.jpg",
+      "price": 29.49,
+      "description": "Learn GraphQL from basics to advanced.",
+      "author": "Brian Clark",
+      "isExist": false
+    },
+    {
+      "id": 16,
+      "ISBN": "978-16",
+      "title": "Frontend Architecture",
+      "img": "https://covers.openlibrary.org/b/id/15102924-L.jpg",
+      "price": 37.99,
+      "description": "Scalable frontend architecture patterns.",
+      "author": "Emma Lewis",
+      "isExist": true
+    },
+    {
+      "id": 17,
+      "ISBN": "978-17",
+      "title": "Testing JavaScript",
+      "img": "https://covers.openlibrary.org/b/id/15142924-L.jpg",
+      "price": 23.99,
+      "description": "Unit and integration testing in JavaScript.",
+      "author": "Mark Taylor",
+      "isExist": true
+    },
+    {
+      "id": 18,
+      "ISBN": "978-18",
+      "title": "DevOps for Developers",
+      "img": "https://covers.openlibrary.org/b/id/15132924-L.jpg",
+      "price": 35.99,
+      "description": "DevOps fundamentals for web developers.",
+      "author": "Nathan Perez",
+      "isExist": false
+    },
+    {
+      "id": 19,
+      "ISBN": "978-19",
+      "title": "Web Performance",
+      "img": "https://covers.openlibrary.org/b/id/15138911-L.jpg",
+      "price": 24.49,
+      "description": "Optimize performance of web applications.",
+      "author": "Isabella Moore",
+      "isExist": true
+    },
+    {
+      "id": 20,
+      "ISBN": "978-20",
+      "title": "Clean Code in JS",
+      "img": "https://covers.openlibrary.org/b/id/15139648-L.jpg",
+      "price": 34.49,
+      "description": "Write clean and maintainable JavaScript code.",
+      "author": "Thomas Walker",
+      "isExist": true
+    }
+  ]
+}
